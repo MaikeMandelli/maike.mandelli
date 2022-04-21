@@ -1,5 +1,5 @@
 # Desafios e Projetos  - Learning
-Repositório criado para resolução de desafios e construção de projetos ligados ao ciclo de aprendizao. 
+Repositório criado para desafios e projetos ligados ao ciclo de aprendizado.
 
 ## Links Úteis
 [Sintaxe Básica] ()
